@@ -4,9 +4,9 @@
 **Author:** Sajal Gupta  
 **Supervisor:** Dr. Dibyendu Nandi  
 **Institution:** Indian Institute of Science Education and Research (IISER) Kolkata — Center of Excellence in Space Sciences India (CESSI)  
-**Date:** August 27, 2022
+**Date:** May 1, 2020
 
-This repository hosts my Master's thesis PDF and (optionally) selected figures/videos used to present the work online.
+This repository hosts my Master's thesis PDF
 
 ---
 
